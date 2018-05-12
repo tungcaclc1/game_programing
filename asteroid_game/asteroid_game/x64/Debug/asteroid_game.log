@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(257): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(277): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(287): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(328): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(351): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(423): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(424): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(457): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(458): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(491): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(492): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(559): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tung\source\repos\asteroid_game\asteroid_game\main.cpp(659): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  asteroid_game.vcxproj -> C:\Users\Tung\source\repos\asteroid_game\x64\Debug\asteroid_game.exe
